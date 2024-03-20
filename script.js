@@ -1,4 +1,4 @@
 // script.js
 document.getElementById("myButton").addEventListener("click", function() {
-    alert("Tombol diklik!");
+    alert("terimakasih telah menekan tombilnya");
 });
